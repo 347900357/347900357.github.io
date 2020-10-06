@@ -1,8 +1,12 @@
-## Welcome to NotePaper
-
-
-
-### 该域名可以出售,联系邮箱:347900357#qq.com
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>NotePaper</title>
+	</head>
+	<body>
+    该域名可以出售,联系邮箱:347900357#qq.com
 
 This domain name can be sold, contact email 347900357#qq.com
-
+	</body>
+</html>
